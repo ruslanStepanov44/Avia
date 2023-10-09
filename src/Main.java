@@ -6,13 +6,12 @@ public class Main {
 
         int mile = amount / bonus;// Должно получиться 700;
 
-        System.out.println (mile);
-
-
-
-        }
+        System.out.println(mile);
 
 
     }
+
+
+}
 
 
